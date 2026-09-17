@@ -1,5 +1,12 @@
-
 # F3 Geographic Directory
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+Org Chart code has been moved to https://github.com/F3-Nation under apps/homepage. 
+
+<details>
+<Summary>Original ReadMe</Summary>
 
 An interactive map application for visualizing F3 Nation's sectors, areas, regions, and AOs. Built with TypeScript, Vite, and Leaflet, it displays organizational boundaries and leadership info using polygons generated from active workout locations.
 
@@ -183,3 +190,5 @@ This project is ready for static hosting (e.g., GitHub Pages, Netlify, Vercel).
 ## License
 
 MIT License. See [LICENSE](LICENSE) if present.
+
+</details>
